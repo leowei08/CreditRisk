@@ -6,4 +6,5 @@ Almost everyone goes through a loan of some kind, whether it is for a car or a h
 
 # Files
 [EDA](EDA.ipynb): Exploratory data analysis on the dataset with plots using seaborn and matplotlib.
+
 [Model](Model.ipynb): Builds a baseline model and many larger models, performs model selection through Cumulative Accuracy Profiles and Area Under the Curve, investigates the tradeoff betweeen interpretability and predictability of a model, and conducts analysis to gain insights on the important factors of loan defaults.
